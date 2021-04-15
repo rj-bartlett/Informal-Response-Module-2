@@ -90,5 +90,7 @@ plot <- heatmaply(
 ggsave("percent.png", width = 25, height = 25)
 ```
 [scale.png](https://github.com/rj-bartlett/Informal-Response-Module-2/issues/1#issue-858411370)
+
 [normal.png](https://github.com/rj-bartlett/Informal-Response-Module-2/issues/2#issue-858411658)
+
 [percent.png](https://github.com/rj-bartlett/Informal-Response-Module-2/issues/3#issue-858411825)
