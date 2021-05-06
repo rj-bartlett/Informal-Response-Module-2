@@ -96,7 +96,7 @@ ggsave("percent.png", width = 25, height = 25)
 ##### Raw Data:
 ![raw](https://user-images.githubusercontent.com/78227378/117343292-22e6fc00-ae72-11eb-895a-607c557683a7.png)
 ##### Scaled Data:
-[scale.png](https://github.com/rj-bartlett/Informal-Response-Module-2/issues/1#issue-858411370)
+![scale](https://user-images.githubusercontent.com/78227378/114804236-fe19d000-9d6e-11eb-9ece-85486efcbc9e.png)
 ##### Normalized Data
 ![normal](https://user-images.githubusercontent.com/78227378/114804303-1689ea80-9d6f-11eb-8676-191cba266072.png)
 ##### Percentized Data
