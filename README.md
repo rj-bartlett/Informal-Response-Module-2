@@ -93,7 +93,7 @@ ggsave("percent.png", width = 25, height = 25)
 ```
 
 #### Heatmaps
-[raw.png](https://github.com/rj-bartlett/Informal-Response-Module-2/issues/4#issue-877796342)
+![raw](https://user-images.githubusercontent.com/78227378/117343292-22e6fc00-ae72-11eb-895a-607c557683a7.png)
 
 [scale.png](https://github.com/rj-bartlett/Informal-Response-Module-2/issues/1#issue-858411370)
 
