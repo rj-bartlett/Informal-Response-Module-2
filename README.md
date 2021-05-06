@@ -1,5 +1,7 @@
 ### Informal Response 1
 
+For this module, I chose to collect data on Cambodia, whose code is KHM. The preparation of this data and the resulting heatmaps from the code presented in class can both be found below. 
+
 #### Code:
 ``` python
 library(haven)
